@@ -26,7 +26,7 @@ Zbalermorna, an alternative orthography for the constructed language Lojban.
 
 ### How to learn ZLM
 
-- [Tinycard deck of the 50 most common words in Lojban](https://tinycards.duolingo.com/decks/NE6TBYur/lojban-words-in-zbalermorna)
+- [Memorang deck of the 50 most common words in Lojban](https://memorang.com/flashcards/1346429/lojban-in-zbalermorna)
 
 
 ### How to type ZLM text
